@@ -1,8 +1,9 @@
 {
   "name": "strollopia.js",
-  "version": "0.1.4",
+  "version": "0.1.5-pre.2ee095c",
   "authors": [
-    "Alex Sanford <alex.sanford@colibri-software.com>"
+    "Alex Sanford <alex.sanford@colibri-software.com>",
+    "Mark Pearce <mark.pearce@colibri-software.com>"
   ],
   "description": "AngularJS modules for Strollopia clients",
   "main": "dist/strollopia.js",
