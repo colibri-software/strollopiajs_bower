@@ -1,6 +1,6 @@
 {
   "name": "strollopia.js",
-  "version": "0.2.4-pre.c77a210",
+  "version": "0.2.4-pre.b58ab73",
   "authors": [
     "Alex Sanford <alex.sanford@colibri-software.com>",
     "Mark Pearce <mark.pearce@colibri-software.com>"
@@ -21,8 +21,7 @@
     "angular-route": "~1.2.15",
     "angular-cached-resource": "~0.5.3",
     "i18next": "~1.7.2",
-    "ngStorage": "gsklee/ngStorage",
-    "ngCordova": "~0.1.3-alpha"
+    "ngStorage": "gsklee/ngStorage"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.15"
