@@ -1,6 +1,6 @@
 {
   "name": "strollopia.js",
-  "version": "0.2.7-pre.90885d3",
+  "version": "0.2.7-pre.d043430",
   "authors": [
     "Alex Sanford <alex.sanford@colibri-software.com>",
     "Mark Pearce <mark.pearce@colibri-software.com>"
@@ -23,7 +23,8 @@
     "i18next": "~1.7.2",
     "ngStorage": "gsklee/ngStorage",
     "ngCordova": "https://github.com/driftyco/ng-cordova.git#c6389abf1ea",
-    "notify.js": "1.2.2"
+    "notify.js": "~1.2.2",
+    "fingerprint": "~0.5.4"
   },
   "devDependencies": {
     "angular-mocks": "~1.2.15"
