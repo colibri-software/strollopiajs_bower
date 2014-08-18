@@ -1,6 +1,6 @@
 {
   "name": "strollopia.js",
-  "version": "0.2.7-pre.daae4f1",
+  "version": "0.2.7-pre.3b46a6f",
   "authors": [
     "Alex Sanford <alex.sanford@colibri-software.com>",
     "Mark Pearce <mark.pearce@colibri-software.com>"
@@ -28,8 +28,5 @@
   },
   "devDependencies": {
     "angular-mocks": "~1.2.15"
-  },
-  "resolutions": {
-    "angular": "~1.2.15"
   }
 }
