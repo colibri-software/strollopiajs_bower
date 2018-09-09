@@ -1,6 +1,6 @@
 {
   "name": "strollopia.js",
-  "version": "0.2.9-pre.2be2596",
+  "version": "0.2.9-pre.5ab947a",
   "authors": [
     "Alex Sanford <alex.sanford@colibri-software.com>",
     "Mark Pearce <mark.pearce@colibri-software.com>"
@@ -23,7 +23,7 @@
     "i18next": "~1.7.2",
     "ngStorage": "https://github.com/colibri-software/ngStorage.git#0.3.2",
     "ngCordova": "https://github.com/driftyco/ng-cordova.git#c6389abf1ea",
-    "angular-audio": "1.7.4",
+    "angular-audio": "https://github.com/danielstern/ngAudio",
     "notify.js": "1.2.3",
     "fingerprint": "0.5.4"
   },
